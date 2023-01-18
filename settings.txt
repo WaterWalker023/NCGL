@@ -1,0 +1,4 @@
+window width (in pixels):
+800
+games per line:
+3
