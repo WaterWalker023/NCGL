@@ -1,6 +1,6 @@
 window width (in pixels):
-1500
+800
 games per line:
-9
+5
 edit next selected game
 0
